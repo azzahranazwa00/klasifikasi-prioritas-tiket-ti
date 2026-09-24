@@ -4,7 +4,7 @@ Tugas mandiri Praktikum Kecerdasan Buatan, Program Studi Sistem dan Teknologi In
 
 **Bidang AI:** Machine Learning (klasifikasi teks)
 **Algoritme:** TF-IDF + Multinomial Naive Bayes
-**Penulis:** [Nama Mahasiswa], NIM [NIM]
+**Penulis:** [Nama Nazwa Azzahra], NIM [2024606601025]
 
 ## Deskripsi singkat
 Model memprediksi tingkat prioritas tiket helpdesk (Rendah / Sedang / Tinggi) dari teks
@@ -40,5 +40,5 @@ python klasifikasi_tiket.py
 ```
 
 ## Diagram rancangan
-![Pipeline](gambar/fig_pipeline.png)
-![Alur keputusan](gambar/fig_alur_keputusan.png)
+   ![Pipeline](fig_pipeline.png)
+   ![Alur keputusan](fig_alur_keputusan.png)
