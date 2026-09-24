@@ -1,0 +1,201 @@
+id_tiket,deskripsi,prioritas
+TKT-001,minta panduan penggunaan sistem KRS online untuk mahasiswa semester awal,Rendah
+TKT-002,"selamat siang, akun admin presensi online diduga diretas, ada login mencurigakan dari luar negeri",Tinggi
+TKT-003,"server portal penerimaan mahasiswa baru down total, seluruh pengguna tidak bisa mengakses sama sekali",Tinggi
+TKT-004,"website kampus agak lambat dibuka, mungkin karena banyak pengunjung",Sedang
+TKT-005,"mohon bantuan, database sistem keuangan kampus korup, backup terakhir belum dicoba dipulihkan, layanan lumpuh",Tinggi
+TKT-006,"halo tim TI, data nilai di SIAKAD hilang setelah pembaruan sistem, mohon ditangani segera",Tinggi
+TKT-007,"mohon bantuan, server SIAKAD down total, seluruh pengguna tidak bisa mengakses sama sekali",Tinggi
+TKT-008,data mahasiswa terlihat oleh akun yang seharusnya tidak punya akses,Tinggi
+TKT-009,"scanner di perpustakaan pusat tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-010,"selamat siang, minta panduan penggunaan sistem ujian daring untuk mahasiswa semester awal",Rendah
+TKT-011,"jaringan lantai dua putus, sekitar seratus komputer tidak bisa online",Tinggi
+TKT-012,"aplikasi presensi online lambat di akun saya, halaman lama sekali terbuka",Sedang
+TKT-013,"aplikasi portal penerimaan mahasiswa baru lambat di akun saya, halaman lama sekali terbuka",Sedang
+TKT-014,tanya prosedur peminjaman kabel HDMI untuk kegiatan di gedung rektorat,Rendah
+TKT-015,"mohon dibantu install aplikasi, agak mendesak untuk rapat besok",Rendah
+TKT-016,"koneksi putus terus di ruang rapat, mohon dicek",Sedang
+TKT-017,"tolong segera dicek, sistem keuangan kampus error 500 saat masa pengisian berlangsung, ratusan mahasiswa gagal masuk",Tinggi
+TKT-018,"halo tim TI, email saya tidak bisa mengirim lampiran lebih dari satu file",Sedang
+TKT-019,"halo tim TI, jaringan internet di perpustakaan pusat mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-020,"mohon bantuan, minta dipasangkan aplikasi pengolah data di komputer laboratorium komputer 2",Rendah
+TKT-021,minta panduan penggunaan portal penerimaan mahasiswa baru untuk mahasiswa semester awal,Rendah
+TKT-022,"halo tim TI, sound system ruang kelas di laboratorium jaringan berdengung dan suaranya pecah",Sedang
+TKT-023,"mohon bantuan, ransomware menyerang komputer di ruang tata usaha, file penting terenkripsi dan tidak bisa dibuka",Tinggi
+TKT-024,"mohon bantuan, koneksi VPN sering terputus saat mengakses jurnal dari rumah",Sedang
+TKT-025,"mohon bantuan reset password akun sistem KRS online, saya lupa kredensialnya",Rendah
+TKT-026,"selamat siang, komputer di ruang tata usaha sering restart sendiri ketika dipakai mengetik laporan",Sedang
+TKT-027,sistem pembayaran uang kuliah tidak merespons untuk semua mahasiswa,Tinggi
+TKT-028,komputer di ruang dosen lantai 3 sering restart sendiri ketika dipakai mengetik laporan,Sedang
+TKT-029,"selamat siang, laptop inventaris kantor sering hang dan harus dinyalakan ulang berkali-kali",Sedang
+TKT-030,"mohon bantuan, komputer di laboratorium komputer 2 sering restart sendiri ketika dipakai mengetik laporan",Sedang
+TKT-031,"halo tim TI, jaringan internet di laboratorium komputer 2 mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-032,"saya tidak bisa login ke portal penerimaan mahasiswa baru sejak kemarin, password sudah benar",Sedang
+TKT-033,"sistem error saat saya mengisi formulir, sudah dicoba tiga kali",Sedang
+TKT-034,"wifi di asrama mahasiswa sangat lambat, sulit membuka portal e-learning",Sedang
+TKT-035,switch utama di gedung rektorat rusak sehingga seluruh lantai kehilangan koneksi jaringan,Tinggi
+TKT-036,"tolong segera dicek, saya ingin bertanya jadwal pemeliharaan sistem KRS online bulan depan",Rendah
+TKT-037,"tolong segera dicek, mohon update nama pada akun sistem keuangan kampus, ada salah ketik di nama belakang",Rendah
+TKT-038,"data nilai di sistem ujian daring hilang setelah pembaruan sistem, mohon ditangani segera",Tinggi
+TKT-039,"akun admin SIAKAD diduga diretas, ada login mencurigakan dari luar negeri",Tinggi
+TKT-040,"mohon bantuan, akun admin SIAKAD diduga diretas, ada login mencurigakan dari luar negeri",Tinggi
+TKT-041,"mohon update nama pada akun SIAKAD, ada salah ketik di nama belakang",Rendah
+TKT-042,"mohon bantuan, server sistem ujian daring down total, seluruh pengguna tidak bisa mengakses sama sekali",Tinggi
+TKT-043,"tolong segera dicek, database sistem KRS online korup, backup terakhir belum dicoba dipulihkan, layanan lumpuh",Tinggi
+TKT-044,"ransomware menyerang komputer di ruang tata usaha, file penting terenkripsi dan tidak bisa dibuka",Tinggi
+TKT-045,"wifi di ruang dosen lantai 3 sangat lambat, sulit membuka sistem keuangan kampus",Sedang
+TKT-046,"mohon bantuan, email phishing menyebar ke seluruh dosen dan banyak yang sudah memasukkan password",Tinggi
+TKT-047,"halo tim TI, listrik UPS ruang server padam, seluruh layanan portal e-learning berhenti mendadak",Tinggi
+TKT-048,"halo tim TI, sound system ruang kelas di laboratorium komputer 2 berdengung dan suaranya pecah",Sedang
+TKT-049,beberapa file di penyimpanan bersama tidak bisa dibuka lagi,Tinggi
+TKT-050,"file laporan tidak bisa diunggah ke presensi online, muncul pesan gagal berulang",Sedang
+TKT-051,minta dipasangkan aplikasi pengolah data di komputer ruang dosen lantai 3,Rendah
+TKT-052,permintaan penambahan mouse dan keyboard cadangan untuk kantor biro akademik,Rendah
+TKT-053,printer mati total tidak mau menyala sama sekali,Sedang
+TKT-054,"selamat siang, scanner di perpustakaan pusat tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-055,"ransomware menyerang komputer di kantor biro akademik, file penting terenkripsi dan tidak bisa dibuka",Tinggi
+TKT-056,"file laporan tidak bisa diunggah ke portal e-learning, muncul pesan gagal berulang",Sedang
+TKT-057,permohonan pemindahan colokan jaringan di gedung rektorat ke sisi jendela,Rendah
+TKT-058,"ada beberapa mahasiswa mengeluh tidak bisa masuk sistem, mungkin masalah di akun mereka",Sedang
+TKT-059,minta panduan penggunaan sistem ujian daring untuk mahasiswa semester awal,Rendah
+TKT-060,"file laporan tidak bisa diunggah ke sistem keuangan kampus, muncul pesan gagal berulang",Sedang
+TKT-061,"sistem ujian daring error 500 saat masa pengisian berlangsung, ratusan mahasiswa gagal masuk",Tinggi
+TKT-062,"halo tim TI, switch utama di ruang tata usaha rusak sehingga seluruh lantai kehilangan koneksi jaringan",Tinggi
+TKT-063,"selamat siang, email saya tidak bisa mengirim lampiran lebih dari satu file",Sedang
+TKT-064,"database sistem KRS online korup, backup terakhir belum dicoba dipulihkan, layanan lumpuh",Tinggi
+TKT-065,"mohon bantuan, sound system ruang kelas di perpustakaan pusat berdengung dan suaranya pecah",Sedang
+TKT-066,"mohon update nama pada akun sistem KRS online, ada salah ketik di nama belakang",Rendah
+TKT-067,"mohon update nama pada akun presensi online, ada salah ketik di nama belakang",Rendah
+TKT-068,"selamat siang, aplikasi sistem ujian daring lambat di akun saya, halaman lama sekali terbuka",Sedang
+TKT-069,bagaimana cara mengubah foto profil di sistem ujian daring?,Rendah
+TKT-070,"tolong segera dicek, email phishing menyebar ke seluruh dosen dan banyak yang sudah memasukkan password",Tinggi
+TKT-071,"selamat siang, mohon informasi tata cara mengajukan akun email untuk dosen baru",Rendah
+TKT-072,"jaringan internet di asrama mahasiswa mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-073,permintaan penambahan mouse dan keyboard cadangan untuk laboratorium komputer 2,Rendah
+TKT-074,"halo tim TI, file laporan tidak bisa diunggah ke portal penerimaan mahasiswa baru, muncul pesan gagal berulang",Sedang
+TKT-075,"halo tim TI, laptop inventaris kantor sering hang dan harus dinyalakan ulang berkali-kali",Sedang
+TKT-076,permintaan penambahan mouse dan keyboard cadangan untuk ruang dosen lantai 3,Rendah
+TKT-077,switch utama di gedung fakultas teknik rusak sehingga seluruh lantai kehilangan koneksi jaringan,Tinggi
+TKT-078,"laptop saya down dan tidak bisa menyala, ada tugas yang harus dikumpulkan",Sedang
+TKT-079,proyektor di asrama mahasiswa tidak menyala padahal ada perkuliahan siang ini,Sedang
+TKT-080,"mohon bantuan, data nilai di sistem keuangan kampus hilang setelah pembaruan sistem, mohon ditangani segera",Tinggi
+TKT-081,minta panduan penggunaan presensi online untuk mahasiswa semester awal,Rendah
+TKT-082,minta panduan penggunaan sistem keuangan kampus untuk mahasiswa semester awal,Rendah
+TKT-083,"tolong segera dicek, mohon bantuan reset password akun sistem ujian daring, saya lupa kredensialnya",Rendah
+TKT-084,proyektor di ruang dosen lantai 3 tidak menyala padahal ada perkuliahan siang ini,Sedang
+TKT-085,permintaan penambahan mouse dan keyboard cadangan untuk gedung fakultas teknik,Rendah
+TKT-086,"printer di ruang tata usaha tidak bisa mencetak, antrean dokumen menumpuk",Sedang
+TKT-087,"sistem KRS online tidak bisa diakses saat ujian berlangsung, peserta ujian terputus massal",Tinggi
+TKT-088,permintaan penambahan mouse dan keyboard cadangan untuk laboratorium jaringan,Rendah
+TKT-089,"selamat siang, wifi di ruang dosen lantai 3 sangat lambat, sulit membuka portal e-learning",Sedang
+TKT-090,tanya prosedur peminjaman kabel HDMI untuk kegiatan di asrama mahasiswa,Rendah
+TKT-091,bagaimana cara mengubah foto profil di portal e-learning?,Rendah
+TKT-092,internet tidak bisa dipakai di meja saya sejak tadi pagi,Sedang
+TKT-093,saya ingin bertanya jadwal pemeliharaan presensi online bulan depan,Rendah
+TKT-094,"jaringan internet di gedung rektorat mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-095,"halo tim TI, mohon informasi tata cara mengajukan akun email untuk dosen baru",Rendah
+TKT-096,komputer di gedung kuliah bersama sering restart sendiri ketika dipakai mengetik laporan,Sedang
+TKT-097,komputer di gedung rektorat sering restart sendiri ketika dipakai mengetik laporan,Sedang
+TKT-098,"database SIAKAD korup, backup terakhir belum dicoba dipulihkan, layanan lumpuh",Tinggi
+TKT-099,"tolong segera dicek, scanner di gedung rektorat tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-100,"aplikasi sistem ujian daring lambat di akun saya, halaman lama sekali terbuka",Sedang
+TKT-101,mohon informasi tata cara mengajukan akun email untuk dosen baru,Rendah
+TKT-102,sound system ruang kelas di gedung rektorat berdengung dan suaranya pecah,Sedang
+TKT-103,"jaringan internet di gedung kuliah bersama mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-104,"suhu ruang server naik drastis dan alarm menyala, khawatir perangkat rusak",Tinggi
+TKT-105,tanya kenapa halaman login tampil agak berbeda dari biasanya,Rendah
+TKT-106,permintaan pembuatan folder bersama di penyimpanan awan untuk kelompok kerja,Rendah
+TKT-107,komputer di ruang tata usaha sering restart sendiri ketika dipakai mengetik laporan,Sedang
+TKT-108,ada login mencurigakan di akun saya dari perangkat yang tidak dikenal,Tinggi
+TKT-109,minta dicek apakah wifi di ruang saya sinyalnya bisa ditambah,Rendah
+TKT-110,"akun admin presensi online diduga diretas, ada login mencurigakan dari luar negeri",Tinggi
+TKT-111,saya ingin bertanya jadwal pemeliharaan sistem ujian daring bulan depan,Rendah
+TKT-112,"ransomware menyerang komputer di gedung fakultas teknik, file penting terenkripsi dan tidak bisa dibuka",Tinggi
+TKT-113,"selamat siang, data nilai di SIAKAD hilang setelah pembaruan sistem, mohon ditangani segera",Tinggi
+TKT-114,"database portal e-learning korup, backup terakhir belum dicoba dipulihkan, layanan lumpuh",Tinggi
+TKT-115,"portal penerimaan mahasiswa baru tidak bisa diakses saat ujian berlangsung, peserta ujian terputus massal",Tinggi
+TKT-116,"tolong segera dicek, akun admin portal e-learning diduga diretas, ada login mencurigakan dari luar negeri",Tinggi
+TKT-117,"selamat siang, sistem KRS online error 500 saat masa pengisian berlangsung, ratusan mahasiswa gagal masuk",Tinggi
+TKT-118,"halo tim TI, switch utama di gedung kuliah bersama rusak sehingga seluruh lantai kehilangan koneksi jaringan",Tinggi
+TKT-119,"tolong segera dicek, saya ingin bertanya jadwal pemeliharaan portal penerimaan mahasiswa baru bulan depan",Rendah
+TKT-120,"tolong segera dicek, ransomware menyerang komputer di gedung kuliah bersama, file penting terenkripsi dan tidak bisa dibuka",Tinggi
+TKT-121,"halo tim TI, jaringan internet di ruang tata usaha mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-122,"tolong segera reset password, saya perlu masuk sistem hari ini",Rendah
+TKT-123,"halo tim TI, proyektor di perpustakaan pusat tidak menyala padahal ada perkuliahan siang ini",Sedang
+TKT-124,"mohon bantuan reset password akun sistem ujian daring, saya lupa kredensialnya",Rendah
+TKT-125,"wifi mati di ruang saya, tidak bisa koneksi sama sekali",Sedang
+TKT-126,"tolong segera dicek, server sistem keuangan kampus down total, seluruh pengguna tidak bisa mengakses sama sekali",Tinggi
+TKT-127,"server sistem KRS online down total, seluruh pengguna tidak bisa mengakses sama sekali",Tinggi
+TKT-128,"halo tim TI, permintaan pembuatan folder bersama di penyimpanan awan untuk kelompok kerja",Rendah
+TKT-129,tanya prosedur peminjaman kabel HDMI untuk kegiatan di kantor biro akademik,Rendah
+TKT-130,"printer di laboratorium komputer 2 tidak bisa mencetak, antrean dokumen menumpuk",Sedang
+TKT-131,"tolong segera dicek, portal e-learning error 500 saat masa pengisian berlangsung, ratusan mahasiswa gagal masuk",Tinggi
+TKT-132,"selamat siang, portal e-learning tidak bisa diakses saat ujian berlangsung, peserta ujian terputus massal",Tinggi
+TKT-133,"mohon bantuan, saya tidak bisa login ke presensi online sejak kemarin, password sudah benar",Sedang
+TKT-134,"wifi di laboratorium komputer 2 sangat lambat, sulit membuka portal penerimaan mahasiswa baru",Sedang
+TKT-135,aplikasi ujian tiba-tiba keluar sendiri untuk banyak peserta,Tinggi
+TKT-136,"selamat siang, minta panduan penggunaan SIAKAD untuk mahasiswa semester awal",Rendah
+TKT-137,"mohon bantuan, permintaan pembuatan folder bersama di penyimpanan awan untuk kelompok kerja",Rendah
+TKT-138,usul perubahan tampilan menu di sistem keuangan kampus agar lebih mudah dibaca,Rendah
+TKT-139,"mohon update nama pada akun portal penerimaan mahasiswa baru, ada salah ketik di nama belakang",Rendah
+TKT-140,"tolong segera dicek, usul perubahan tampilan menu di presensi online agar lebih mudah dibaca",Rendah
+TKT-141,"halo tim TI, minta panduan penggunaan sistem ujian daring untuk mahasiswa semester awal",Rendah
+TKT-142,"database presensi online korup, backup terakhir belum dicoba dipulihkan, layanan lumpuh",Tinggi
+TKT-143,"file laporan tidak bisa diunggah ke sistem KRS online, muncul pesan gagal berulang",Sedang
+TKT-144,"scanner di kantor biro akademik tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-145,"mohon bantuan, komputer di asrama mahasiswa sering restart sendiri ketika dipakai mengetik laporan",Sedang
+TKT-146,tanya prosedur peminjaman kabel HDMI untuk kegiatan di laboratorium jaringan,Rendah
+TKT-147,"selamat siang, server sistem ujian daring down total, seluruh pengguna tidak bisa mengakses sama sekali",Tinggi
+TKT-148,switch utama di laboratorium komputer 2 rusak sehingga seluruh lantai kehilangan koneksi jaringan,Tinggi
+TKT-149,"wifi di ruang dosen lantai 3 sangat lambat, sulit membuka portal e-learning",Sedang
+TKT-150,"halo tim TI, switch utama di asrama mahasiswa rusak sehingga seluruh lantai kehilangan koneksi jaringan",Tinggi
+TKT-151,"listrik UPS ruang server padam, seluruh layanan presensi online berhenti mendadak",Tinggi
+TKT-152,"selamat siang, tanya prosedur peminjaman kabel HDMI untuk kegiatan di asrama mahasiswa",Rendah
+TKT-153,minta dipasangkan aplikasi pengolah data di komputer laboratorium komputer 2,Rendah
+TKT-154,bagaimana cara mengubah foto profil di presensi online?,Rendah
+TKT-155,sound system ruang kelas di gedung fakultas teknik berdengung dan suaranya pecah,Sedang
+TKT-156,"jaringan internet di gedung fakultas teknik mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-157,"halo tim TI, scanner di gedung fakultas teknik tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-158,saya ingin bertanya jadwal pemeliharaan portal penerimaan mahasiswa baru bulan depan,Rendah
+TKT-159,"tolong segera dicek, permintaan pembuatan folder bersama di penyimpanan awan untuk kelompok kerja",Rendah
+TKT-160,"ransomware menyerang komputer di gedung rektorat, file penting terenkripsi dan tidak bisa dibuka",Tinggi
+TKT-161,"mohon bantuan, listrik UPS ruang server padam, seluruh layanan sistem keuangan kampus berhenti mendadak",Tinggi
+TKT-162,usul perubahan tampilan menu di SIAKAD agar lebih mudah dibaca,Rendah
+TKT-163,"akun email saya tidak bisa dibuka, takut ada yang masuk tanpa izin",Sedang
+TKT-164,saya ingin bertanya jadwal pemeliharaan sistem keuangan kampus bulan depan,Rendah
+TKT-165,"saya tidak bisa login ke sistem ujian daring sejak kemarin, password sudah benar",Sedang
+TKT-166,"tolong segera dicek, mohon informasi tata cara mengajukan akun email untuk dosen baru",Rendah
+TKT-167,laptop inventaris kantor sering hang dan harus dinyalakan ulang berkali-kali,Sedang
+TKT-168,email phishing menyebar ke seluruh dosen dan banyak yang sudah memasukkan password,Tinggi
+TKT-169,"selamat siang, sound system ruang kelas di kantor biro akademik berdengung dan suaranya pecah",Sedang
+TKT-170,"jaringan internet di ruang tata usaha mati total sejak pagi, semua ruangan tidak bisa terhubung",Tinggi
+TKT-171,"halo tim TI, wifi di kantor biro akademik sangat lambat, sulit membuka portal e-learning",Sedang
+TKT-172,permohonan pemindahan colokan jaringan di kantor biro akademik ke sisi jendela,Rendah
+TKT-173,"scanner di gedung fakultas teknik tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-174,"tolong segera dicek, switch utama di kantor biro akademik rusak sehingga seluruh lantai kehilangan koneksi jaringan",Tinggi
+TKT-175,"saya tidak bisa login ke SIAKAD sejak kemarin, password sudah benar",Sedang
+TKT-176,"tolong segera dicek, koneksi VPN sering terputus saat mengakses jurnal dari rumah",Sedang
+TKT-177,komputer di perpustakaan pusat sering restart sendiri ketika dipakai mengetik laporan,Sedang
+TKT-178,"mohon bantuan reset password akun SIAKAD, saya lupa kredensialnya",Rendah
+TKT-179,"mohon bantuan, mohon informasi tata cara mengajukan akun email untuk dosen baru",Rendah
+TKT-180,"mohon bantuan, wifi di kantor biro akademik sangat lambat, sulit membuka sistem ujian daring",Sedang
+TKT-181,email saya tidak bisa mengirim lampiran lebih dari satu file,Sedang
+TKT-182,"mohon bantuan, minta panduan penggunaan sistem KRS online untuk mahasiswa semester awal",Rendah
+TKT-183,tanya prosedur peminjaman kabel HDMI untuk kegiatan di laboratorium komputer 2,Rendah
+TKT-184,"scanner di gedung rektorat tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-185,"tolong segera dicek, suhu ruang server naik drastis dan alarm menyala, khawatir perangkat rusak",Tinggi
+TKT-186,"mohon update nama pada akun sistem ujian daring, ada salah ketik di nama belakang",Rendah
+TKT-187,minta dipasangkan aplikasi pengolah data di komputer ruang tata usaha,Rendah
+TKT-188,"mohon bantuan, minta dipasangkan aplikasi pengolah data di komputer kantor biro akademik",Rendah
+TKT-189,minta dipasangkan aplikasi pengolah data di komputer laboratorium jaringan,Rendah
+TKT-190,proyektor di kantor biro akademik tidak menyala padahal ada perkuliahan siang ini,Sedang
+TKT-191,server lab lambat sekali hari ini,Sedang
+TKT-192,"halo tim TI, scanner di asrama mahasiswa tidak terdeteksi oleh komputer, dokumen perlu dipindai hari ini",Sedang
+TKT-193,"listrik UPS ruang server padam, seluruh layanan SIAKAD berhenti mendadak",Tinggi
+TKT-194,"mohon bantuan, komputer di ruang dosen lantai 3 sering restart sendiri ketika dipakai mengetik laporan",Sedang
+TKT-195,minta dipasangkan aplikasi pengolah data di komputer gedung rektorat,Rendah
+TKT-196,koneksi VPN sering terputus saat mengakses jurnal dari rumah,Sedang
+TKT-197,proyektor di laboratorium komputer 2 tidak menyala padahal ada perkuliahan siang ini,Sedang
+TKT-198,"tolong segera dicek, komputer di laboratorium jaringan sering restart sendiri ketika dipakai mengetik laporan",Sedang
+TKT-199,"halo tim TI, database presensi online korup, backup terakhir belum dicoba dipulihkan, layanan lumpuh",Tinggi
+TKT-200,"akun admin portal e-learning diduga diretas, ada login mencurigakan dari luar negeri",Tinggi
